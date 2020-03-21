@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Universe</string>
+    <string name="app_name">Your Universe</string>
     <string name="about">About</string>
     <string name="aboutdev">This Application is created By ❤John Melody Me❤ and ❤Tan Sin Dee❤</string>
     <string name="ok">Okay</string>
+    <string name="bestsex">The first minutes begins with a base frequency of 221.23Hz. Paired with a binaural frequency of 9.0Hz. After 15 minutes the base frequency remains the same as the base frequency drops to 2.5Hz, At the 30 minute mark the audio base frequency shifts to 210.42Hz and is again paired with 9.0hz binaural frequency. After 45 minutes the binaural frequency again shifts to 2.5Hz as the base frequency remains the same.</string>
 </resources>
